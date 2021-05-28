@@ -40,7 +40,8 @@ const Header = () => {
             Search
           </button>
         </form>
-        <Avatar className="ml-auto" url="https://coaching.papareact.com/ai9" />
+        {/* <Avatar className="ml-auto" url="https://coaching.papareact.com/ai9" /> */}
+        <Avatar className="ml-auto" url="/finalImage.jpg" />
       </div>
       <HeaderOptions />
     </header>
